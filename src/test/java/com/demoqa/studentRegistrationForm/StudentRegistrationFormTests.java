@@ -60,7 +60,7 @@ public class StudentRegistrationFormTests extends BaseRegistrationForm {
         $x("//td[text()='Picture']/following::td[1]").shouldHave(text(picture));
         $x("//td[text()='Address']/following::td[1]").shouldHave(text(currentAddress));
         $x("//td[text()='State and City']/following::td[1]").shouldNot(empty);
-        
+
     }
 
 
