@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fe40348-232a-41c7-aac5-8eed7fa79c9b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/demoqa/studentRegistrationForm/StudentRegistrationFormTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demoqa/studentRegistrationForm/StudentRegistrationFormTests.java" afterDir="false" />
+    <list default="true" id="6fe40348-232a-41c7-aac5-8eed7fa79c9b" name="Default Changelist" comment="StudentRegFormTest">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +75,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -92,7 +92,7 @@
       <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.StudentRegistrationFormTests.studentRegistrationTest">
+  <component name="RunManager" selected="Gradle.StudentRegistrationFormTests">
     <configuration name="Exmp.exmpTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -190,8 +190,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.StudentRegistrationFormTests.studentRegistrationTest" />
         <item itemvalue="Gradle.StudentRegistrationFormTests" />
+        <item itemvalue="Gradle.StudentRegistrationFormTests.studentRegistrationTest" />
         <item itemvalue="Gradle.Exmp.exmpTest" />
         <item itemvalue="Gradle.Exmp.setGenderTest" />
         <item itemvalue="Gradle.Selenide_DEMOQA [clean]" />
@@ -207,12 +207,25 @@
       <option name="presentableId" value="Default" />
       <updated>1605426587716</updated>
       <workItem from="1605426589149" duration="250000" />
-      <workItem from="1605426866036" duration="14826000" />
+      <workItem from="1605426866036" duration="15008000" />
+      <workItem from="1605455795336" duration="46000" />
     </task>
+    <task id="LOCAL-00001" summary="StudentRegFormTest">
+      <created>1605445383347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605445383347</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="StudentRegFormTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="StudentRegFormTest" />
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="31" key="#Project_Structure" timestamp="1605433233160">
@@ -227,38 +240,42 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="367" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605445254816" />
-    <state width="1398" height="273" key="GridCell.Tab.0.bottom" timestamp="1605445039872">
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom" timestamp="1605455840873">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="273" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605445039872" />
-    <state width="1398" height="273" key="GridCell.Tab.0.center" timestamp="1605445039871">
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605455840873" />
+    <state width="1398" height="273" key="GridCell.Tab.0.center" timestamp="1605455840871">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="273" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605445039871" />
-    <state width="1398" height="273" key="GridCell.Tab.0.left" timestamp="1605445039871">
+    <state width="1398" height="273" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605455840871" />
+    <state width="1398" height="273" key="GridCell.Tab.0.left" timestamp="1605455840871">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="273" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605445039871" />
-    <state width="1398" height="273" key="GridCell.Tab.0.right" timestamp="1605445039872">
+    <state width="1398" height="273" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605455840871" />
+    <state width="1398" height="273" key="GridCell.Tab.0.right" timestamp="1605455840872">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="273" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605445039872" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1605442374249">
+    <state width="1398" height="273" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605455840872" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1605445546414">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605442374249" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1605442374248">
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605445546414" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1605445546413">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1605442374248" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1605442374248">
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1605445546413" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1605445546413">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1605442374248" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1605442374249">
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1605445546413" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1605445546414">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1605442374249" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1605445546414" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605445400758">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605445400758" />
     <state x="385" y="196" key="search.everywhere.popup" timestamp="1605444369085">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
